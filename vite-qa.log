@@ -1,0 +1,18 @@
+
+> portfolio-surgeon@1.0.0 dev
+> vite --host 0.0.0.0 --port 8215
+
+
+  VITE v6.4.3  ready in 885 ms
+
+  ➜  Local:   http://localhost:8215/
+  ➜  Network: http://192.168.0.101:8215/
+  ➜  Network: http://172.25.144.1:8215/
+  ➜  press h + enter to show help
+1:32:26 pm [vite] (client) hmr update /src/App.tsx
+1:32:26 pm [vite] (client) page reload index.html
+1:32:26 pm [vite] (client) hmr update /src/App.tsx
+1:32:26 pm [vite] (client) page reload src/main.tsx
+1:32:26 pm [vite] vite.config.ts changed, restarting server...
+1:32:26 pm [vite] changed tsconfig file detected: D:/Animation Websites/15-surgeon/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+1:32:26 pm [vite] server restarted.
